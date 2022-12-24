@@ -7,7 +7,7 @@
 
 <h2>📺 Certifications</h2>
 
-- CompTIA Network+
+- CompTIA Network+(https://www.credly.com/badges/e45988fe-8934-4c4f-aafe-23484952cda8/public_url)
 - CompTIA Security+
 
 <h2> 🤳 Connect with me:</h2>
