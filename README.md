@@ -2,19 +2,16 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-  - [Active Directory Home Lab]
-  - [Azure Cloud Detection Lab]
+  - Active Directory Home Lab
+  - Azure Cloud Detection Lab
 
 <h2>📺 Certifications</h2>
 
 - CompTIA Network+(https://www.credly.com/badges/e45988fe-8934-4c4f-aafe-23484952cda8/public_url)
-- CompTIA Security+
+- CompTIA Security+(https://www.credly.com/badges/2d769ab5-6a0d-4e02-ba80-5cbda2f6752d/public_url)
 
 <h2> 🤳 Connect with me:</h2>
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
